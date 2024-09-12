@@ -1,2 +1,2 @@
-# snowmint-go
-The SnowMint Client SDK in Go
+# The SnowMint Client SDK in Go
+Coming soon!
